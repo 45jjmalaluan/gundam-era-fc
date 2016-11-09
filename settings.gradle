@@ -1,0 +1,3 @@
+rootProject.name = 'gundam-era-fc'
+
+include 'fc-core', 'fc-web'
